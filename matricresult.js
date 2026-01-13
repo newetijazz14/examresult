@@ -4,5 +4,5 @@ password = prompt(
   'CHECK RESULT'
 );
 if (password != 'CHECK RESULT') {
-  location.href = 'https://www.favmrzi.online/matric-result';
+  location.href = 'https://www.ctretz.online/matric-result';
 }
